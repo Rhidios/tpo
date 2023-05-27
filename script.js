@@ -82,9 +82,7 @@ function mostrarProductosEnCarrito() {
 
 const checkoutBtn = document.getElementById('checkout-btn');
 
-checkoutBtn.addEventListener('click', () => {
-  // Aquí puedes redirigir al usuario a la página de pago de MercadoPago o realizar alguna otra acción relacionada con finalizar la compra
-});
+
 
 
 
